@@ -1,0 +1,98 @@
+"Sales Order"
+""
+"Vihari Pipes
+                    Miyapur, HYD, Telangana -
+                                500049
+                                    GSTIN : 22323jsjsd",""
+""
+"Order Date:Sat Dec 19 2020"
+"Name & address
+                                of
+                                the Customer 
+                        Sentini flopipes India
+                            Pvt
+                            LtdSy No.290 to 305, IP Kothapalli Kowrugunta,Kothapalli Kowrugunta
+                            VillageDagadarthi Mandal, Nellore Dist.GSTIN/UIN: 37ABACS0487R1ZNState Name : ,
+                            Code
+                            CIN: U74999TG2018PTC123244E-Mail : srgmf@pipes.sentinigroup.comPAN :ABACS0487R","Name & address
+                                of
+                                the Customer","Sentini flopipes India
+                            Pvt
+                            LtdSy No.290 to 305, IP Kothapalli Kowrugunta,Kothapalli Kowrugunta
+                            VillageDagadarthi Mandal, Nellore Dist.GSTIN/UIN: 37ABACS0487R1ZNState Name : ,
+                            Code
+                            CIN: U74999TG2018PTC123244E-Mail : srgmf@pipes.sentinigroup.comPAN :ABACS0487R"
+"Name & address
+                                of
+                                the Customer","Sentini flopipes India
+                            Pvt
+                            LtdSy No.290 to 305, IP Kothapalli Kowrugunta,Kothapalli Kowrugunta
+                            VillageDagadarthi Mandal, Nellore Dist.GSTIN/UIN: 37ABACS0487R1ZNState Name : ,
+                            Code
+                            CIN: U74999TG2018PTC123244E-Mail : srgmf@pipes.sentinigroup.comPAN :ABACS0487R"
+"S.No.","Skucode","Item Description","UOM","MRP(in Rs.)","Qty","Net Rate(in Rs.)","Amount(in Rs.)"
+
+"1","S110001CP5","CPVC Pipes 5 Mtrs - ½” (15mm) SDR 11","Bundles","168000","10","126000.00","1260000"
+"2","S110004CP5","CPVC Pipes 5 Mtrs - 1¼” (32mm) SDR 11","Bundles","300375","15","225281.25","3379218.75"
+"3","S110006CP5","CPVC Pipes 5 Mtrs - 2” (50mm) SDR 11","Bundles","153500","10","115125.00","1151250"
+"4","S110404CFP","CPVC Ftngs Plain Elbow 90° - 1¼” (32mm) SDR 11","Boxes","30450","3","26796.00","80388"
+"5","S110801CFP","CPVC Ftngs Plain Elbow 45° - ½” (15mm) SDR 11","Boxes","48000","4","42240.00","168960"
+"6","S110803CFP","CPVC Ftngs Plain Elbow 45° - 1" (25mm) SDR 11","Boxes","30000","6","26400.00","158400"
+"7","SCMM48CYTU","CPVC Solvent Cement - Medium Duty Yellow 59ml Tube","Boxes","27200","5","21760.00","108800"
+"8","SSS845DP3M","UGD Pipes 3 Mtrs - 110mm SN-8 Solid Wall Solvent Fit","Bundles","6300","5","3276.00","16380"
+"9","SSS846DP3M","UGD Pipes 3 Mtrs - 160mm SN-8 Solid Wall Solvent Fit","Bundles","18480","7","9609.60","67267.2"
+"10","SRS845DP6M","UGD Pipes 6 Mtrs - 110mm SN-8 Solid Wall Ring Fit","Bundles","12900","5","6708.00","33540"
+"11","SRS446DP3M","UGD Pipes 3 Mtrs - 160mm SN-4 Solid Wall Ring Fit","Bundles","18720","8","9734.40","77875.2"
+"12","RLBR56SGPC","UGD Rubber Lubricant - Regular Gray 250 grams Plastic Container","Boxes","15360","8","7987.20","63897.6"
+"Total
+                        
+                        
+                            Rs.620917.45
+                        
+                    
+                    
+                        Output
+                                GST@18%
+                        
+                            Rs.111765.15
+                        
+                    
+
+                    
+                        Grand
+                                Total
+                        
+                            Rs.732682.60","","Total","Rs.620917.45","Output
+                                GST@18%","Rs.111765.15","Grand
+                                Total","Rs.732682.60"
+""
+"Total","Rs.620917.45"
+"Output
+                                GST@18%","Rs.111765.15"
+"Grand
+                                Total","Rs.732682.60"
+"Summary Of
+                        Sales
+                        Order"
+"Item","Amount(in Rs.)","Contribution(in %)"
+"CPVCpipesTotal","466406.25","79.92"
+"CPVCfittingsTotal","95436.00","16.35"
+"CPVCsolventsTotal","21760.00","3.73"
+"UPVCpipesTotal","0.00","NaN"
+"UPVCfittingsTotal","0.00","NaN"
+"UPVCsolventsTotal","0.00","NaN"
+"SWRpipesTotal","0.00","NaN"
+"SWRfittingsTotal","0.00","NaN"
+"SWRsolventsTotal","0.00","NaN"
+"SWRlubricantsTotal","NaN","NaN"
+"UGDpipesTotal","29328.00","78.60"
+"UGDfittingsTotal","0.00","0.00"
+"UGDsolventsTotal","7987.20","21.40"
+"Sentini Flopipes India Pvt Ltd.Registered Office Address:Plot
+                                No:1229,Sentini House Rd No:60Jubilee Hills
+                                -Hyderabad-33,Telangana-India","Sentini Flopipes India Pvt Ltd.Registered Office Address:Plot
+                                No:1229,Sentini House Rd No:60Jubilee Hills
+                                -Hyderabad-33,Telangana-India"
+"Sentini Flopipes India Pvt Ltd.Registered Office Address:Plot
+                                No:1229,Sentini House Rd No:60Jubilee Hills
+                                -Hyderabad-33,Telangana-India"

@@ -1,0 +1,94 @@
+"Sales Order"
+""
+"Vihari Pipes
+                    Miyapur, HYD, Telangana -
+                                500049
+                                    GSTIN : 22323jsjsd",""
+"","Order Date:Sat Dec 19 2020"
+"Name & address
+                                of
+                                the Customer 
+                        Sentini flopipes India
+                            Pvt
+                            LtdSy No.290 to 305, IP Kothapalli Kowrugunta,Kothapalli Kowrugunta
+                            VillageDagadarthi Mandal, Nellore Dist.GSTIN/UIN: 37ABACS0487R1ZNState Name : ,
+                            Code
+                            CIN: U74999TG2018PTC123244E-Mail : srgmf@pipes.sentinigroup.comPAN :ABACS0487R","Name & address
+                                of
+                                the Customer","Sentini flopipes India
+                            Pvt
+                            LtdSy No.290 to 305, IP Kothapalli Kowrugunta,Kothapalli Kowrugunta
+                            VillageDagadarthi Mandal, Nellore Dist.GSTIN/UIN: 37ABACS0487R1ZNState Name : ,
+                            Code
+                            CIN: U74999TG2018PTC123244E-Mail : srgmf@pipes.sentinigroup.comPAN :ABACS0487R"
+"Name & address
+                                of
+                                the Customer","Sentini flopipes India
+                            Pvt
+                            LtdSy No.290 to 305, IP Kothapalli Kowrugunta,Kothapalli Kowrugunta
+                            VillageDagadarthi Mandal, Nellore Dist.GSTIN/UIN: 37ABACS0487R1ZNState Name : ,
+                            Code
+                            CIN: U74999TG2018PTC123244E-Mail : srgmf@pipes.sentinigroup.comPAN :ABACS0487R"
+"S.No.","Skucode","Item Description","UOM","MRP(in Rs.)","Qty","Net Rate(in Rs.)","Amount(in Rs.)"
+
+"1","S110002CP3","CPVC Pipes 3 Mtrs - ¾” (20mm) SDR 11","Bundles","16000","1","12000.00","12000"
+"2","S110001CP5","CPVC Pipes 5 Mtrs - ½” (15mm) SDR 11","Bundles","67200","4","50400.00","201600"
+"3","S130001CP3","CPVC Pipes 3 Mtrs - ½” (15mm) SDR 13.5","Bundles","26700","2","20025.00","40050"
+"4","S110405CFP","CPVC Ftngs Plain Elbow 90° - 1½” (40mm) SDR 11","Boxes","134400","10","118272.00","1182720"
+"5","SSS846DP3M","UGD Pipes 3 Mtrs - 160mm SN-8 Solid Wall Solvent Fit","Bundles","26400","10","13728.00","137280"
+"6","SSS268DP6M","UGD Pipes 6 Mtrs - 200mm SN-2 Solid Wall Solvent Fit","Bundles","30000","5","15600.00","78000"
+"Total
+                        
+                        
+                            Rs.230025.00
+                        
+                    
+                    
+                        Output
+                                GST@18%
+                        
+                            Rs.41404.50
+                        
+                    
+
+                    
+                        Grand
+                                Total
+                        
+                            Rs.271429.50","","Total","Rs.230025.00","Output
+                                GST@18%","Rs.41404.50","Grand
+                                Total","Rs.271429.50"
+""
+"Total","Rs.230025.00"
+"Output
+                                GST@18%","Rs.41404.50"
+"Grand
+                                Total","Rs.271429.50"
+"Summary Of
+                        Sales
+                        Order"
+"Item","Amount(in Rs.)","Contribution(in %)"
+"CPVCpipesTotal","82425.00","41.07"
+"CPVCfittingsTotal","118272.00","58.93"
+"CPVCsolventsTotal","0.00","0.00"
+"UPVCpipesTotal","0.00","NaN"
+"UPVCfittingsTotal","0.00","NaN"
+"UPVCsolventsTotal","0.00","NaN"
+"SWRpipesTotal","0.00","NaN"
+"SWRfittingsTotal","0.00","NaN"
+"SWRsolventsTotal","0.00","NaN"
+"SWRlubricantsTotal","NaN","NaN"
+"UGDpipesTotal","29328.00","100.00"
+"UGDfittingsTotal","0.00","0.00"
+"UGDsolventsTotal","0.00","0.00"
+"Sentini Flopipes India Pvt Ltd.
+                            
+                            Registered Office Address:Plot No:1229,Sentini House Rd No:60,Jubilee Hills
+                            -Hyderabad-33,Telangana-India","Sentini Flopipes India Pvt Ltd.
+                            
+                            Registered Office Address:Plot No:1229,Sentini House Rd No:60,Jubilee Hills
+                            -Hyderabad-33,Telangana-India"
+"Sentini Flopipes India Pvt Ltd.
+                            
+                            Registered Office Address:Plot No:1229,Sentini House Rd No:60,Jubilee Hills
+                            -Hyderabad-33,Telangana-India"
